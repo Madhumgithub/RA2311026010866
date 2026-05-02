@@ -53,13 +53,13 @@ Top 10 notifications are selected after sorting.
 ## Screenshots
 
 ### Backend Output
-![Backend](./screenshots/backend_output.png)
+![Backend](./screenshots/backend_output.jpeg)
 
 ### Desktop UI
-![Desktop](./screenshots/desktop_ui.png)
+![Desktop](./screenshots/desktop_ui.jpeg)
 
 ### Mobile UI
-![Mobile](./screenshots/mobile_ui.png)
+![Mobile](./screenshots/mobile_ui.jpeg)
 
 ---
 
